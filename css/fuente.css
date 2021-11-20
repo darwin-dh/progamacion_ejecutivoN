@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+    font-family: Roboto-Black;/*nombre con que se usa la fuente*/
+    src: url('../fonts/Roboto-Black.ttf');
+}
+@font-face {
+    font-family:Roboto-Italic ;
+    src: url(../fonts/Roboto-Italic.ttf);
+}
+body{
+    font-family: Roboto-Black;
+}
+.italic{
+    font-family:Roboto-Italic ;
+}
+.web{
+    font-family: 'Estonia', cursive;
+    font-size: 25px;
+    font-weight: 900;
+}

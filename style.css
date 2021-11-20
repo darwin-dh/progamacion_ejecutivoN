@@ -1,0 +1,24 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+h2 + p{
+    color:yellowgreen;
+}
+.hola{
+    color: turquoise;
+}
+.hola + p{
+    color: violet;
+}
+
+  tr td{
+      background: red;
+  }
+
+small[class="texto"]{
+    color:#1769ff;
+    font-weight: 900;
+    background: turquoise;
+    padding: 10px;
+}
